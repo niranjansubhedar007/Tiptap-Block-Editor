@@ -38,7 +38,7 @@ const Editor = ({ darkMode }) => {
   });
 
   const addImage = () => {
-    const url = window.prompt('Enter the URL of the image:');
+    const url = window.prompt('Enter the URL of the image :');
     if (url) {
       editor.chain().focus().setImage({ src: url }).run();
     }
