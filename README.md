@@ -41,4 +41,4 @@ tailwindcss: CSS framework
 
 Open terminal and type command "npm start" to start application on local server
 here is my deployed link : https://tiptap-block-editor.vercel.app/
-here is my git repo      : https://github.com/niranjansubhedar007/Tiptap-Block-Editor
+here is my git repo      : https://github.com/niranjansubhedar007/Tiptap-Block-Editor/tree/master
